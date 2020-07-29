@@ -1,0 +1,11 @@
+text\processor\api\test\TestTextProcessorWatsonImpl.class
+text\translator\api\impl\TextTranslatorGoogleImpl.class
+text\processor\api\impl\TextProcessorWatsonImpl.class
+text\processor\api\base\TextProcessorBase.class
+text\processor\api\impl\TextProcessorDandelionImpl.class
+text\processor\api\test\TestTextTranslatorGoogleImpl.class
+text\translator\api\impl\TextTranslatorGoogleImpl$2.class
+text\processor\api\interfaces\TextProcessorInterface.class
+text\translator\api\interfaces\TextTranslatorInterface.class
+text\translator\api\impl\TextTranslatorGoogleImpl$1.class
+text\processor\api\test\TestTextProcessorDandelionImpl.class

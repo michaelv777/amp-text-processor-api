@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amp.text.processor.api.test.TestTextProcessorWatsonImpl" tests="3" skipped="3" failures="0" errors="0" timestamp="2020-07-20T17:04:30" hostname="CAW1PF16H7PB" time="0.0">
+  <properties/>
+  <testcase name="testGetKeywordsFromEntityData" classname="com.amp.text.processor.api.test.TestTextProcessorWatsonImpl" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEractEntityFromTextByGet" classname="com.amp.text.processor.api.test.TestTextProcessorWatsonImpl" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEractEntityFromTextByPost" classname="com.amp.text.processor.api.test.TestTextProcessorWatsonImpl" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

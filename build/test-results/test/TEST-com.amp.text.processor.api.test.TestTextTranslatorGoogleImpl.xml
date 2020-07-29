@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amp.text.processor.api.test.TestTextTranslatorGoogleImpl" tests="4" skipped="4" failures="0" errors="0" timestamp="2020-07-20T17:04:30" hostname="CAW1PF16H7PB" time="0.0">
+  <properties/>
+  <testcase name="testTranslateFromTextByPost2" classname="com.amp.text.processor.api.test.TestTextTranslatorGoogleImpl" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTranslateFromTextByGet" classname="com.amp.text.processor.api.test.TestTextTranslatorGoogleImpl" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTranslateFromTextByGet2" classname="com.amp.text.processor.api.test.TestTextTranslatorGoogleImpl" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTranslateFromTextByPost" classname="com.amp.text.processor.api.test.TestTextTranslatorGoogleImpl" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
